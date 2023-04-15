@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[COVID19 South Africa](http://example.com/)
+[COVID19 South Africa](/COVID19_RSA)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
