@@ -4,11 +4,11 @@
 
 ### Exploratory data analysis 
 
-[Project 1 Title](/sample_page)
+[USA Wildfires](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[ADSB Flight Data](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Machine Learning 
 
-- [Project 1 Title](http://example.com/)
+- [House Price Prediction](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
