@@ -4,7 +4,7 @@
 
 ### Exploratory data analysis 
 
-[USA Wildfires](/sample_page)
+[USA Wildfires](/USA_WildFires)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[COVID19 South Africa](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
