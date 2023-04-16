@@ -5,15 +5,15 @@
 ### Exploratory data analysis 
 
 [USA Wildfires](/USA_WildFires)
-<img src="images/megan-lee-IdrTFuebEK4-unsplash.jpg?raw=true"/>
+<img src="images/megan-lee-IdrTFuebEK4-unsplash.jpg?raw=true"/>(/USA_WildFires)
 
 ---
 [ADSB Flight Data](/pdf/sample_presentation.pdf)
-<img src="images/samuel-s-photos-CBPsOKHlTHg-unsplash.jpg?raw=true"/>
+<img src="images/samuel-s-photos-CBPsOKHlTHg-unsplash.jpg?raw=true"/>(/pdf/sample_presentation.pdf)
 
 ---
 [COVID19 South Africa](/COVID19_RSA)
-<img src="images/fusion-medical-animation-EAgGqOiDDMg-unsplash.jpg?raw=true"/>
+<img src="images/fusion-medical-animation-EAgGqOiDDMg-unsplash.jpg?raw=true"/>(/COVID19_RSA)
 
 ---
 
