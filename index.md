@@ -8,7 +8,7 @@
 <img src="images/megan-lee-IdrTFuebEK4-unsplash.jpg?raw=true"/>
 
 ---
-[ADSB Flight Data](/_layouts/Mapview.html)
+[ADSB Flight Data](/_layouts/MapView.html)
 <img src="images/samuel-s-photos-CBPsOKHlTHg-unsplash.jpg?raw=true"/>
 
 ---
