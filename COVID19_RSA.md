@@ -9,7 +9,7 @@ A MATLAB simulation to illustrate the spread of a contagious disease.
 ### 2. Plot of daily new cases
 
 <img src="images/DailyCases.png?raw=true"/>
-
+<video autoplay loop muted playsinline src="images/Virus_v1.mp4"></video>
 ```javascript
 if (isAwesome){
   return true
